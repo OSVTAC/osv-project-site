@@ -44,6 +44,17 @@ the project, in reverse chronological order.
   System,"](files/DOE/REG_RFP_2017-01_Business_Case.pdf)
   REG RFP #2017-01, 25 pages.
 
+* **January 20.** San Francisco Board of Supervisors,
+  ["Contract Amendment - Voting System - Not to Exceed
+  $21,980,691.25,"](files/BOS/BOS_Ordinance_005-17.pdf)
+  Ordinance No. 005-17, File No. 161094, 5 pages.
+
+  "Ordinance authorizing the Department of Elections to enter into the Fourth
+  Amendment of an agreement with Dominion Voting Systems, Inc. to extend the
+  term of the agreement through December 31, 2018, increasing the total
+  not-to-exceed amount of the Agreement by $2,289,758, from $19,690,933.25 to
+  $21,980,691.25."
+
 
 ## 2015
 
