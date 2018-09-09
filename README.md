@@ -45,7 +45,7 @@ the project, in reverse chronological order.
 
 * **August 6.** San Francisco Department of Elections,
   ["Request for Information (RFI), San Francisco's Voting
-  System,"](files/doe/RFI_VotingSystem.pdf)
+  System,"](files/DOE/RFI_VotingSystem.pdf)
   RFI #REG2015-01, 17 pages.
   [[source link](https://sfelections.sfgov.org/request-information-rfi-new-voting-system)]
 
@@ -54,7 +54,7 @@ the project, in reverse chronological order.
 
 * **December 19.** San Francisco Board of Supervisors, ["Supporting the
   Creation of Open Source Voting Systems - Studying New Models of Voting
-  System Development,"](files/bos/BOS_Resolution_460-14_Open_Source_Voting.pdf)
+  System Development,"](files/BOS/BOS_Resolution_460-14_Open_Source_Voting.pdf)
   Resolution No. 460-14, File No. 141105, 5 pages.
 
 
@@ -69,5 +69,5 @@ the project, in reverse chronological order.
 ## 2008
 
 * **December 1.** San Francisco Board of Supervisors, [Voting Systems Task
-  Force Ordinance](files/bos/BOS_Ordinance_268-08_VSTF.pdf),
+  Force Ordinance](files/BOS/BOS_Ordinance_268-08_VSTF.pdf),
   Ordinance No. 268-08, File No. 081227, 6 pages.
