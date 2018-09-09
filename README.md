@@ -66,10 +66,19 @@ are also included.
   [[TXT version](files/elections-commission/osv-res-1/SF_Elections_Comm_Open_Source_Voting_Res.txt),
   [source link](https://sfgov.org/electionscommission/motions-and-resolutions)]
 
+  "Resolution to support the development and certification of an open source
+  voting system running on commercial off-the-shelf hardware; and to request
+  that the Mayor and Board of Supervisors initiate and fund a project to
+  develop and certify such a system for use in San Francisco."
+
 * **October 23.** San Francisco Local Agency Formation Commission,
   ["Study on Open Source Voting
   Systems,"](files/LAFCo_Report_Open_Source_Voting.pdf) 39 pages.
   [[source link](https://sfgov.org/lafco/documents)]
+
+  This is the final report created by the Local Agency Formation Commission
+  (LAFCo), which the Board of Supervisors asked it to create in its
+  December 2014 open source voting resolution.
 
 * **August 6.** San Francisco Department of Elections,
   ["Request for Information (RFI), San Francisco's Voting
@@ -85,6 +94,13 @@ are also included.
   System Development,"](files/BOS/BOS_Resolution_460-14_Open_Source_Voting.pdf)
   Resolution No. 460-14, File No. 141105, 5 pages.
 
+  "Resolution committing the City and County of San Francisco to work with
+  other jurisdictions and organizations to create new voting systems using
+  open source software; and to study the feasibility of the City and County
+  of San Francisco developing and using a new voting system, either whole or
+  in part, through a collaborative model like the Los Angeles County Voting
+  Systems Assessment Project."
+
 
 ## 2011
 
@@ -93,9 +109,19 @@ are also included.
   San Francisco,"](files/VSTF_Report.pdf) 57 pages.
   [[source link](https://sfgov.org/ccsfgsa/voting-systems-task-force)]
 
+  This is the final report created by the Voting Systems Task Force (VSTF),
+  which was established by the Board of Supervisors' 2008 ordinance.
+
 
 ## 2008
 
 * **December 1.** San Francisco Board of Supervisors, [Voting Systems Task
   Force Ordinance](files/BOS/BOS_Ordinance_268-08_VSTF.pdf),
   Ordinance No. 268-08, File No. 081227, 6 pages.
+
+  "Ordinance amending the Administrative Code by adding Sections 5.400-410 to
+  establish a Voting Systems Task Force comprised of individuals with
+  backgrounds in good government, computer science or the computer industry,
+  election administration, and accommodations of persons with disabilities,
+  to make recommendations to the Board of Supervisors about voting system
+  standards, design and development."
