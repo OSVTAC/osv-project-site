@@ -6,6 +6,7 @@ Francisco's Open Source Voting System Project.
 Below is a listing of written reports and other official documents related to
 the project, in reverse chronological order.
 
+
 ## 2018
 
 * **August 28.** Department of Technology,
@@ -28,6 +29,7 @@ the project, in reverse chronological order.
   Assessment,"](files/CCSF_-_Open_Source_Voting_System_-_Feasibility_Assessment_vFINAL.PDF)
   65 pages.
 
+
 ## 2015
 
 * **November 18.** San Francisco Elections Commission, ["Open Source Voting
@@ -41,6 +43,13 @@ the project, in reverse chronological order.
   Systems,"](files/LAFCo_Report_Open_Source_Voting.pdf) 39 pages.
   [[source link](https://sfgov.org/lafco/documents)]
 
+* **August 6.** San Francisco Department of Elections,
+  ["Request for Information (RFI), San Francisco's Voting
+  System,"](files/doe/RFI_VotingSystem.pdf)
+  RFI #REG2015-01, 17 pages.
+  [[source link](https://sfelections.sfgov.org/request-information-rfi-new-voting-system)]
+
+
 ## 2014
 
 * **December 19.** San Francisco Board of Supervisors, ["Supporting the
@@ -48,12 +57,14 @@ the project, in reverse chronological order.
   System Development,"](files/bos/BOS_Resolution_460-14_Open_Source_Voting.pdf)
   Resolution No. 460-14, File No. 141105, 5 pages.
 
+
 ## 2011
 
 * **June 2011.** San Francisco Voting Systems Task Force (VSTF),
   ["Recommendations on Voting Systems for the City and County of
   San Francisco,"](files/VSTF_Report.pdf) 57 pages.
   [[source link](https://sfgov.org/ccsfgsa/voting-systems-task-force)]
+
 
 ## 2008
 
