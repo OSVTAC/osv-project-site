@@ -29,6 +29,12 @@ the project, in reverse chronological order.
   Assessment,"](files/CCSF_-_Open_Source_Voting_System_-_Feasibility_Assessment_vFINAL.PDF)
   65 pages.
 
+* **February 1.** San Francisco Department of Elections,
+  ["Request for Proposals for Leasing or Renting a Voting
+  System,"](files/DOE/REG_RFP_2018_FA52092.pdf)
+  REG RFP #2018-01, 31 pages.
+  [[source link](http://mission.sfgov.org/OCA_BID_ATTACHMENTS/FA52092.pdf)]
+
 
 ## 2015
 
@@ -46,7 +52,7 @@ the project, in reverse chronological order.
 * **August 6.** San Francisco Department of Elections,
   ["Request for Information (RFI), San Francisco's Voting
   System,"](files/DOE/RFI_VotingSystem.pdf)
-  RFI #REG2015-01, 17 pages.
+  REG RFI #2015-01, 17 pages.
   [[source link](https://sfelections.sfgov.org/request-information-rfi-new-voting-system)]
 
 
