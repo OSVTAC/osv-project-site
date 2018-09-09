@@ -51,7 +51,7 @@ the project, in reverse chronological order.
 
 * **August 6.** San Francisco Department of Elections,
   ["Request for Information (RFI), San Francisco's Voting
-  System,"](files/DOE/RFI_VotingSystem.pdf)
+  System,"](files/DOE/REG_RFI_2015-01_VotingSystem.pdf)
   REG RFI #2015-01, 17 pages.
   [[source link](https://sfelections.sfgov.org/request-information-rfi-new-voting-system)]
 
