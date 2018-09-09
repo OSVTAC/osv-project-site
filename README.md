@@ -6,25 +6,57 @@ Francisco's Open Source Voting System Project.
 Below is a listing of written reports and other official documents related to
 the project, in reverse chronological order.
 
-* August 28, 2018. [Job Posting - 5504 Senior Technical Project
-  Manager,](files/Job_Posting_5504_Project_Manager_20180828.pdf)
-  Department of Technology, 5 pages. [[source
-  link](https://jobapscloud.com/SF/sup/BulPreview.asp?R1=TEX&R2=5504&R3=088534)]
+## 2018
 
-* June 29, 2018. ["Open Source Voting in San
+* **August 28.** Department of Technology,
+  [Job Posting - 5504 Senior Technical Project
+  Manager](files/Job_Posting_5504_Project_Manager_20180828.pdf), 5 pages.
+  [[source link](https://jobapscloud.com/SF/sup/BulPreview.asp?R1=TEX&R2=5504&R3=088534)]
+
+* **June 29.** San Francisco Civil Grand Jury, ["Open Source Voting in San
   Francisco,"](files/2017-18_SFCGJ_Final_Report_Open_Source_Voting_in_San_Francisco.pdf)
-  Civil Grand Jury, 48 pages. [[source
-  link](http://civilgrandjury.sfgov.org/report.html)]
+  48 pages.
+  [[source link](http://civilgrandjury.sfgov.org/report.html)]
 
-* March 14, 2018. ["Open Source Voting System Feasibility
+* **June 20.** San Francisco Elections Commission, ["Open Source Voting
+  Systems Resolution #2,"](files/elections-commission/osv-res-2/Elections_Comm_Open_Source_Voting_Res_2.pdf)
+  8 pages.
+  [[TXT version](files/elections-commission/osv-res-2/Elections_Comm_Open_Source_Voting_Res_2.txt),
+  [source link](https://sfgov.org/electionscommission/motions-and-resolutions)]
+
+* **March 14.** Slalom, ["Open Source Voting System Feasibility
   Assessment,"](files/CCSF_-_Open_Source_Voting_System_-_Feasibility_Assessment_vFINAL.PDF)
-  Slalom, 65 pages.
+  65 pages.
 
-* October 23, 2015. ["Study on Open Source Voting
-  Systems,"](files/LAFCo_Report_Open_Source_Voting.pdf) San Francisco Local
-  Agency Formation Commission, 39 pages. [[source
-  link](https://sfgov.org/lafco/documents)]
+## 2015
 
-* June 2011. ["Recommendations on Voting Systems for the City and County of
-  San Francisco,"](files/VSTF_Report.pdf) Voting Systems Task Force, 57 pages.
+* **November 18.** San Francisco Elections Commission, ["Open Source Voting
+  Systems Resolution,"](files/elections-commission/osv-res-1/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
+  8 pages.
+  [[TXT version](files/elections-commission/osv-res-1/SF_Elections_Comm_Open_Source_Voting_Res.txt),
+  [source link](https://sfgov.org/electionscommission/motions-and-resolutions)]
+
+* **October 23.** San Francisco Local Agency Formation Commission,
+  ["Study on Open Source Voting
+  Systems,"](files/LAFCo_Report_Open_Source_Voting.pdf) 39 pages.
+  [[source link](https://sfgov.org/lafco/documents)]
+
+## 2014
+
+* **December 19.** San Francisco Board of Supervisors, ["Supporting the
+  Creation of Open Source Voting Systems - Studying New Models of Voting
+  System Development,"](files/bos/BOS_Resolution_460-14_Open_Source_Voting.pdf)
+  Resolution No. 460-14, File No. 141105, 5 pages.
+
+## 2011
+
+* **June 2011.** San Francisco Voting Systems Task Force (VSTF),
+  ["Recommendations on Voting Systems for the City and County of
+  San Francisco,"](files/VSTF_Report.pdf) 57 pages.
   [[source link](https://sfgov.org/ccsfgsa/voting-systems-task-force)]
+
+## 2008
+
+* **December 1.** San Francisco Board of Supervisors, [Voting Systems Task
+  Force Ordinance](files/bos/BOS_Ordinance_268-08_VSTF.pdf),
+  Ordinance No. 268-08, File No. 081227, 6 pages.
