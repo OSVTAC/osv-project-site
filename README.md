@@ -36,6 +36,15 @@ the project, in reverse chronological order.
   [[source link](http://mission.sfgov.org/OCA_BID_ATTACHMENTS/FA52092.pdf)]
 
 
+## 2017
+
+* **May 22.** San Francisco Department of Elections,
+  ["Request for Proposals for Preparing a Business Case for Developing an
+  Accessible, Open Source Voting
+  System,"](files/DOE/REG_RFP_2017-01_Business_Case.pdf)
+  REG RFP #2017-01, 25 pages.
+
+
 ## 2015
 
 * **November 18.** San Francisco Elections Commission, ["Open Source Voting
