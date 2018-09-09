@@ -4,7 +4,9 @@ This page serves as an informational “portal” or clearinghouse for San
 Francisco's Open Source Voting System Project.
 
 Below is a listing of written reports and other official documents related to
-the project, in reverse chronological order.
+the project, in reverse chronological order. For additional background, some
+documents related to San Francisco's use of _non_-open source voting systems
+are also included.
 
 
 ## 2018
