@@ -27,6 +27,16 @@ are also included.
   [[TXT version](files/elections-commission/osv-res-2/Elections_Comm_Open_Source_Voting_Res_2.txt),
   [source link](https://sfgov.org/electionscommission/motions-and-resolutions)]
 
+* **June 15.** San Francisco Open Source Voting System Technical Advisory
+  Committee (OSVTAC), ["Statement on Slalom
+  Report,"](files/TAC/OSVTAC_Slalom_Report_Statement_June_15_2018.pdf)
+  1 page. [[source link](https://osvtac.github.io/communications)]
+
+* **March 19.** San Francisco Open Source Voting System Technical Advisory
+  Committee (OSVTAC), ["Recommendation regarding Initial Project
+  Funding,"](files/TAC/OSVTAC_Recommendation_re_Funding_March_19_2018.pdf)
+  3 pages. [[source link](https://osvtac.github.io/communications)]
+
 * **March 14.** Slalom, ["Open Source Voting System Feasibility
   Assessment,"](files/CCSF_-_Open_Source_Voting_System_-_Feasibility_Assessment_vFINAL.PDF)
   65 pages.
