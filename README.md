@@ -11,6 +11,16 @@ are also included.
 
 ## 2018
 
+* **September 18.** San Francisco Open Source Voting System Technical
+  Advisory Committee (OSVTAC), ["Statement on Project Manager
+  Hiring,"](files/TAC/OSVTAC_re_Project_Manager_Hiring_Sept_18_2018.pdf)
+  1 page. [[source link](https://osvtac.github.io/communications)]
+
+* **September 18.** San Francisco Open Source Voting System Technical
+  Advisory Committee (OSVTAC), ["Statement on Project Ownership and Project
+  Management,"](files/TAC/OSVTAC_re_Project_Ownership_Sept_18_2018.pdf)
+  2 pages. [[source link](https://osvtac.github.io/communications)]
+
 * **August 28.** Department of Technology,
   [Job Posting - 5504 Senior Technical Project
   Manager](files/Job_Posting_5504_Project_Manager_20180828.pdf), 5 pages.
