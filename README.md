@@ -143,6 +143,21 @@ are also included.
   Systems Assessment Project."
 
 
+## 2013
+
+* **November 26.** ["Contract Amendment -- Voting System -- Not to Exceed
+  $19,690,933.25"](files/BOS/BOS_Contract_Amend_File_130797_Approved.pdf)
+  (PDF), Ordinance No. 269-13, File No. 130797, San Francisco Board of
+  Supervisors, 5 pages.
+  [[source link](https://sfgov.legistar.com/LegislationDetail.aspx?ID=1463380&GUID=1E251D04-216F-4392-8F7D-61DC0E05A5B7)]
+
+  "Ordinance authorizing the Department of Elections to enter into the
+  _third_ amendment of an agreement with Dominion Voting Systems, Inc., to
+  commence following Board approval, to extend the term of the agreement
+  through December 10, 2016, increasing the total not-to-exceed amount of the
+  agreement by $3,645,900 from $16,045,033.25 to $19,690,933.25."
+
+
 ## 2011
 
 * **November 22.** ["Contract Extension -- Voting System -- Not to Exceed
@@ -150,11 +165,11 @@ are also included.
   (PDF), Resolution No. 494-11, File No. 111153, San Francisco Board of
   Supervisors, 3 pages.
 
-  This is a resolution approving the second amendment to San Francisco's
-  existing contract with Dominion Voting Systems (who assumed Sequoia Voting
-  Systems' contract with the City), for an amount not to exceed $2,264,800
-  and to extend the term of the contract from its previous end date of
-  December 11, 2011 to a new date of December 11, 2013.
+  This is the resolution approving the _second_ amendment to San Francisco's
+  contract with Dominion Voting Systems (who assumed Sequoia Voting Systems'
+  contract with the City), for an amount not to exceed $2,264,800 and to
+  extend the term of the contract from its previous end date of December 11,
+  2011 to a new date of December 11, 2013.
 
 * **June 2011.** ["Recommendations on Voting Systems for the City and County
   of San Francisco"](files/VSTF_Report.pdf) (PDF), San Francisco Voting
@@ -167,8 +182,8 @@ are also included.
 
 ## 2008
 
-* **December 1.** [Voting Systems Task Force
-  Ordinance](files/BOS/BOS_Ordinance_268-08_VSTF.pdf) (PDF), Ordinance No.
+* **December 1.** ["Voting Systems Task
+  Force"](files/BOS/BOS_Ordinance_268-08_VSTF.pdf) (PDF), Ordinance No.
   268-08, File No. 081227, San Francisco Board of Supervisors, 6 pages.
 
   "Ordinance amending the Administrative Code by adding Sections 5.400-410 to
@@ -182,6 +197,7 @@ are also included.
   Inc.](files/DOE/DominContract1stAmend-2008.pdf) (PDF), San Francisco
   Office of Contract Administration, Purchasing Division, 6 pages.
 
-  This is the first amendment to San Francisco's contract with Sequoia
-  Voting Systems. It is for an amount not to exceed $13,780,233.25 and is
-  from the years 2007 to 2011.
+  This is the _first_ amendment to San Francisco's contract with Sequoia
+  Voting Systems, Inc. (acquired by Dominion Voting Systems, Inc. on June 4,
+  2010). It is for an amount not to exceed $13,780,233.25 to be paid over the
+  years from 2007 to 2011.
