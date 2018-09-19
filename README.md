@@ -46,7 +46,7 @@ are also included.
   (OSVTAC), 2 pages. [[source link](https://osvtac.github.io/communications)]
 
 * **August 28.** ["Job Posting - 5504 Senior Technical Project
-  Manager""](files/Job_Posting_5504_Project_Manager_20180828.pdf) (PDF),
+  Manager"](files/Job_Posting_5504_Project_Manager_20180828.pdf) (PDF),
   San Francisco Department of Technology, 5 pages.
   [[source link](https://jobapscloud.com/SF/sup/BulPreview.asp?R1=TEX&R2=5504&R3=088534)]
 
@@ -83,16 +83,14 @@ are also included.
 
 ## 2017
 
-* **May 22.** San Francisco Department of Elections,
-  ["Request for Proposals for Preparing a Business Case for Developing an
-  Accessible, Open Source Voting
+* **May 22.** ["Request for Proposals for Preparing a Business Case for
+  Developing an Accessible, Open Source Voting
   System"](files/DOE/REG_RFP_2017-01_Business_Case.pdf) (PDF),
-  REG RFP #2017-01, 25 pages.
+  REG RFP #2017-01, San Francisco Department of Elections, 25 pages.
 
-* **January 20.** San Francisco Board of Supervisors,
-  ["Contract Amendment - Voting System - Not to Exceed
-  $21,980,691.25"](files/BOS/BOS_Ordinance_005-17.pdf) (PDF),
-  Ordinance No. 005-17, File No. 161094, 5 pages.
+* **January 20.** ["Contract Amendment - Voting System - Not to Exceed
+  $21,980,691.25"](files/BOS/BOS_Ordinance_005-17.pdf) (PDF), Ordinance No.
+  005-17, File No. 161094, San Francisco Board of Supervisors, 5 pages.
 
   "Ordinance authorizing the Department of Elections to enter into the Fourth
   Amendment of an agreement with Dominion Voting Systems, Inc. to extend the
@@ -103,9 +101,9 @@ are also included.
 
 ## 2015
 
-* **November 18.** San Francisco Elections Commission, ["Open Source Voting
-  Systems Resolution"](files/elections-commission/osv-res-1/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
-  (PDF), 8 pages.
+* **November 18.** ["Open Source Voting Systems
+  Resolution"](files/elections-commission/osv-res-1/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
+  (PDF), San Francisco Elections Commission, 8 pages.
   [[TXT version](files/elections-commission/osv-res-1/SF_Elections_Comm_Open_Source_Voting_Res.txt),
   [source link](https://sfgov.org/electionscommission/motions-and-resolutions)]
 
@@ -114,28 +112,28 @@ are also included.
   that the Mayor and Board of Supervisors initiate and fund a project to
   develop and certify such a system for use in San Francisco."
 
-* **October 23.** San Francisco Local Agency Formation Commission,
-  ["Study on Open Source Voting
-  Systems"](files/LAFCo_Report_Open_Source_Voting.pdf) (PDF), 39 pages.
+* **October 23.** ["Study on Open Source Voting
+  Systems"](files/LAFCo_Report_Open_Source_Voting.pdf) (PDF),
+  San Francisco Local Agency Formation Commission, 39 pages.
   [[source link](https://sfgov.org/lafco/documents)]
 
   This is the final report created by the Local Agency Formation Commission
   (LAFCo), which the Board of Supervisors asked it to create in its
   December 2014 open source voting resolution.
 
-* **August 6.** San Francisco Department of Elections,
-  ["Request for Information (RFI), San Francisco's Voting
+* **August 6.** ["Request for Information (RFI), San Francisco's Voting
   System"](files/DOE/REG_RFI_2015-01_VotingSystem.pdf) (PDF),
-  REG RFI #2015-01, 17 pages.
+  REG RFI #2015-01, San Francisco Department of Elections, 17 pages.
   [[source link](https://sfelections.sfgov.org/request-information-rfi-new-voting-system)]
 
 
 ## 2014
 
-* **December 19.** San Francisco Board of Supervisors, ["Supporting the
-  Creation of Open Source Voting Systems - Studying New Models of Voting
-  System Development"](files/BOS/BOS_Resolution_460-14_Open_Source_Voting.pdf)
-  (PDF), Resolution No. 460-14, File No. 141105, 5 pages.
+* **December 19.** ["Supporting the Creation of Open Source Voting Systems -
+  Studying New Models of Voting System
+  Development"](files/BOS/BOS_Resolution_460-14_Open_Source_Voting.pdf)
+  (PDF), Resolution No. 460-14, File No. 141105, San Francisco Board of
+  Supervisors, 5 pages.
 
   "Resolution committing the City and County of San Francisco to work with
   other jurisdictions and organizations to create new voting systems using
@@ -147,9 +145,9 @@ are also included.
 
 ## 2011
 
-* **June 2011.** San Francisco Voting Systems Task Force (VSTF),
-  ["Recommendations on Voting Systems for the City and County of
-  San Francisco"](files/VSTF_Report.pdf) (PDF), 57 pages.
+* **June 2011.** ["Recommendations on Voting Systems for the City and County
+  of San Francisco"](files/VSTF_Report.pdf) (PDF), San Francisco Voting
+  Systems Task Force (VSTF), 57 pages.
   [[source link](https://sfgov.org/ccsfgsa/voting-systems-task-force)]
 
   This is the final report created by the Voting Systems Task Force (VSTF),
@@ -158,9 +156,9 @@ are also included.
 
 ## 2008
 
-* **December 1.** San Francisco Board of Supervisors, [Voting Systems Task
-  Force Ordinance](files/BOS/BOS_Ordinance_268-08_VSTF.pdf) (PDF),
-  Ordinance No. 268-08, File No. 081227, 6 pages.
+* **December 1.** [Voting Systems Task Force
+  Ordinance](files/BOS/BOS_Ordinance_268-08_VSTF.pdf) (PDF), Ordinance No.
+  268-08, File No. 081227, San Francisco Board of Supervisors, 6 pages.
 
   "Ordinance amending the Administrative Code by adding Sections 5.400-410 to
   establish a Voting Systems Task Force comprised of individuals with
@@ -168,3 +166,11 @@ are also included.
   election administration, and accommodations of persons with disabilities,
   to make recommendations to the Board of Supervisors about voting system
   standards, design and development."
+
+* **January 18.** [First Amendment to Contract with Sequoia Voting Systems,
+  Inc.](files/DOE/DominContract1stAmend-2008.pdf) (PDF), San Francisco
+  Office of Contract Administration, Purchasing Division, 6 pages.
+
+  This is the first amendment to San Francisco's contract with Sequoia
+  Voting Systems. It is for an amount not to exceed $13,780,233.25 and is
+  from the years 2007 to 2011.
