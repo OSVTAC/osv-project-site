@@ -145,6 +145,17 @@ are also included.
 
 ## 2011
 
+* **November 22.** ["Contract Extension -- Voting System -- Not to Exceed
+  $2,264,800"](files/BOS/BOS_Contract_Ext_File_111153_Approved.pdf)
+  (PDF), Resolution No. 494-11, File No. 111153, San Francisco Board of
+  Supervisors, 3 pages.
+
+  This is a resolution approving the second amendment to San Francisco's
+  existing contract with Dominion Voting Systems (who assumed Sequoia Voting
+  Systems' contract with the City), for an amount not to exceed $2,264,800
+  and to extend the term of the contract from its previous end date of
+  December 11, 2011 to a new date of December 11, 2013.
+
 * **June 2011.** ["Recommendations on Voting Systems for the City and County
   of San Francisco"](files/VSTF_Report.pdf) (PDF), San Francisco Voting
   Systems Task Force (VSTF), 57 pages.
