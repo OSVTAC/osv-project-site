@@ -9,6 +9,30 @@ documents related to San Francisco's use of _non_-open source voting systems
 are also included.
 
 
+## Ongoing
+
+* **["Open Source Voting System Project
+  Recommendations"](https://osvtac.github.io/recommendations/)** (HTML),
+  San Francisco Open Source Voting System Technical Advisory Committee
+  (OSVTAC).
+
+  This web page contains OSVTAC's latest recommendations for the City and
+  County of San Francisco’s open source voting system project. The
+  recommendations are a work in progress and updated periodically. The
+  recommendations are hosted on GitHub. OSVTAC discusses and votes on changes
+  to this document at its monthly meetings, using an iterative process in
+  public view -- similar to how open source projects are developed.
+
+* **["OSVTAC Written Reports to the
+  Commission"](https://osvtac.github.io/communications#reports-to-the-commission)**
+  (HTML), San Francisco Open Source Voting System Technical Advisory
+  Committee (OSVTAC).
+
+  This page contains OSVTAC's periodic written reports to the San Francisco
+  Elections Commission. OSVTAC's Bylaws require that OSVTAC write a report
+  to the Commission at least once every four months.
+
+
 ## 2018
 
 * **September 18.** San Francisco Open Source Voting System Technical
