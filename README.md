@@ -35,51 +35,49 @@ are also included.
 
 ## 2018
 
-* **September 18.** San Francisco Open Source Voting System Technical
-  Advisory Committee (OSVTAC), ["Statement on Project Manager
-  Hiring"](files/TAC/OSVTAC_re_Project_Manager_Hiring_Sept_18_2018.pdf) (PDF),
-  1 page. [[source link](https://osvtac.github.io/communications)]
+* **September 18.** ["Statement on Project Manager
+  Hiring"](files/TAC/OSVTAC_re_Project_Manager_Hiring_Sept_18_2018.pdf)
+  (PDF), San Francisco Open Source Voting System Technical Advisory Committee
+  (OSVTAC), 1 page. [[source link](https://osvtac.github.io/communications)]
 
-* **September 18.** San Francisco Open Source Voting System Technical
-  Advisory Committee (OSVTAC), ["Statement on Project Ownership and Project
+* **September 18.** ["Statement on Project Ownership and Project
   Management"](files/TAC/OSVTAC_re_Project_Ownership_Sept_18_2018.pdf) (PDF),
-  2 pages. [[source link](https://osvtac.github.io/communications)]
+  San Francisco Open Source Voting System Technical Advisory Committee
+  (OSVTAC), 2 pages. [[source link](https://osvtac.github.io/communications)]
 
-* **August 28.** Department of Technology,
-  [Job Posting - 5504 Senior Technical Project
-  Manager](files/Job_Posting_5504_Project_Manager_20180828.pdf) (PDF),
-  5 pages.
+* **August 28.** ["Job Posting - 5504 Senior Technical Project
+  Manager""](files/Job_Posting_5504_Project_Manager_20180828.pdf) (PDF),
+  San Francisco Department of Technology, 5 pages.
   [[source link](https://jobapscloud.com/SF/sup/BulPreview.asp?R1=TEX&R2=5504&R3=088534)]
 
-* **June 29.** San Francisco Civil Grand Jury, ["Open Source Voting in San
+* **June 29.** ["Open Source Voting in San
   Francisco"](files/2017-18_SFCGJ_Final_Report_Open_Source_Voting_in_San_Francisco.pdf)
-  (PDF), 48 pages.
+  (PDF), San Francisco Civil Grand Jury,  48 pages.
   [[source link](http://civilgrandjury.sfgov.org/report.html)]
 
-* **June 20.** San Francisco Elections Commission, ["Open Source Voting
-  Systems Resolution #2"](files/elections-commission/osv-res-2/Elections_Comm_Open_Source_Voting_Res_2.pdf)
-  (PDF), 8 pages.
+* **June 20.** ["Open Source Voting Systems Resolution
+  #2"](files/elections-commission/osv-res-2/Elections_Comm_Open_Source_Voting_Res_2.pdf)
+  (PDF), San Francisco Elections Commission, 8 pages.
   [[TXT version](files/elections-commission/osv-res-2/Elections_Comm_Open_Source_Voting_Res_2.txt),
   [source link](https://sfgov.org/electionscommission/motions-and-resolutions)]
 
-* **June 15.** San Francisco Open Source Voting System Technical Advisory
-  Committee (OSVTAC), ["Statement on Slalom
+* **June 15.** ["Statement on Slalom
   Report"](files/TAC/OSVTAC_Slalom_Report_Statement_June_15_2018.pdf) (PDF),
-  1 page. [[source link](https://osvtac.github.io/communications)]
+  San Francisco Open Source Voting System Technical Advisory Committee
+  (OSVTAC), 1 page. [[source link](https://osvtac.github.io/communications)]
 
-* **March 19.** San Francisco Open Source Voting System Technical Advisory
-  Committee (OSVTAC), ["Recommendation regarding Initial Project
+* **March 19.** ["Recommendation regarding Initial Project
   Funding"](files/TAC/OSVTAC_Recommendation_re_Funding_March_19_2018.pdf)
-  (PDF), 3 pages. [[source link](https://osvtac.github.io/communications)]
+  (PDF), San Francisco Open Source Voting System Technical Advisory Committee
+  (OSVTAC), 3 pages. [[source link](https://osvtac.github.io/communications)]
 
-* **March 14.** Slalom, ["Open Source Voting System Feasibility
+* **March 14.** ["Open Source Voting System Feasibility
   Assessment"](files/CCSF_-_Open_Source_Voting_System_-_Feasibility_Assessment_vFINAL.PDF)
-  (PDF), 65 pages.
+  (PDF), Slalom, 65 pages.
 
-* **February 1.** San Francisco Department of Elections,
-  ["Request for Proposals for Leasing or Renting a Voting
+* **February 1.** ["Request for Proposals for Leasing or Renting a Voting
   System"](files/DOE/REG_RFP_2018_FA52092.pdf) (PDF),
-  REG RFP #2018-01, 31 pages.
+  REG RFP #2018-01, San Francisco Department of Elections, 31 pages.
   [[source link](http://mission.sfgov.org/OCA_BID_ATTACHMENTS/FA52092.pdf)]
 
 
