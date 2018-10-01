@@ -50,6 +50,9 @@ are also included.
   San Francisco Department of Technology, 5 pages.
   [[source link](https://jobapscloud.com/SF/sup/BulPreview.asp?R1=TEX&R2=5504&R3=088534)]
 
+  **Note: to apply for the job posting above, visit the City's jobs site
+  reachable from the above "source link."**
+
 * **June 29.** ["Open Source Voting in San
   Francisco"](files/2017-18_SFCGJ_Final_Report_Open_Source_Voting_in_San_Francisco.pdf)
   (PDF), San Francisco Civil Grand Jury,  48 pages.
@@ -87,6 +90,15 @@ are also included.
   Developing an Accessible, Open Source Voting
   System"](files/DOE/REG_RFP_2017-01_Business_Case.pdf) (PDF),
   REG RFP #2017-01, San Francisco Department of Elections, 25 pages.
+
+* **April -- August.** ["Job Posting - 1823 Senior Administrative
+  Analyst"](files/DOE/Job_Posting_1823_Analyst_2017/Announcement_1823_Senior_Admin_Analyst.pdf) (PDF),
+  San Francisco Department of Elections, 6 pages.
+  [[PDF version #2](files/DOE/Job_Posting_1823_Analyst_2017/Job_Posting_1823_Position_Posted_July_20_2017.pdf),
+  [Word version #2](files/DOE/Job_Posting_1823_Analyst_2017/Job_Posting_1823_Position_Posted_July_20_2017.docx),
+  [source link](https://jobapscloud.com/SF/sup/bulpreview.asp?R1=PEX&R2=1823&R3=075624)]
+
+  **Note: the above job posting is expired and is here only for reference.**
 
 * **January 20.** ["Contract Amendment - Voting System - Not to Exceed
   $21,980,691.25"](files/BOS/BOS_Ordinance_005-17.pdf) (PDF), Ordinance No.
