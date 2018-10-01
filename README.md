@@ -90,16 +90,40 @@ grouped by year.
   (PDF), San Francisco Civil Grand Jury,  48 pages.
   [[source link](http://civilgrandjury.sfgov.org/report.html)]
 
+  The [San Francisco Civil Grand Jury](http://civilgrandjury.sfgov.org/)
+  (CGJ) chose to investigate the San Francisco Department of Elections (among
+  other entities) during its 2017-18 term of office. The CGJ investigation of
+  the Department of Elections focused solely on the open source voting
+  project. This is their report on the topic. It includes twenty-two findings
+  and thirteen recommendations, with responses requested from the Mayor of
+  San Francisco, the Director of the San Francisco Department of Elections,
+  the President of the San Francisco Elections Commission, San Francisco's
+  Chief Information Officer (of the San Francisco Department of Technology),
+  and the San Francisco Controller.
+
 * **June 20.** ["Open Source Voting Systems Resolution
   #2"](files/elections-commission/osv-res-2/Elections_Comm_Open_Source_Voting_Res_2.pdf)
   (PDF), San Francisco Elections Commission, 8 pages.
   [[TXT version](files/elections-commission/osv-res-2/Elections_Comm_Open_Source_Voting_Res_2.txt),
   [source link](https://sfgov.org/electionscommission/motions-and-resolutions)]
 
+  The San Francisco Elections Commission adopted this resolution at its June
+  20, 2018 meeting. From the resolution's preamble: "The Commission is
+  adopting this resolution to supplement (and not replace) its first Open
+  Source Voting Systems Resolution, adopted on November 18, 2015, since many
+  events have transpired since that time."
+
 * **June 15.** ["Statement on Slalom
   Report"](files/TAC/OSVTAC_Slalom_Report_Statement_June_15_2018.pdf) (PDF),
   San Francisco Open Source Voting System Technical Advisory Committee
   (OSVTAC), 1 page. [[source link](https://osvtac.github.io/communications)]
+
+  This is a brief statement by OSVTAC commenting on Slalom's "Open Source
+  Voting System Feasibility Assessment" report below. OSVTAC created and
+  adopted this statement at its June 14, 2018 meeting. The statement begins,
+  "Certain inaccuracies and basic omissions in Slalom’s Report lead us to
+  seriously question the report as a whole. We recommend not relying on it
+  for determining the future direction of the project."
 
 * **March 19.** ["Recommendation regarding Initial Project
   Funding"](files/TAC/OSVTAC_Recommendation_re_Funding_March_19_2018.pdf)
