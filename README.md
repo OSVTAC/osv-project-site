@@ -3,10 +3,15 @@
 This page serves as an informational “portal” or clearinghouse for San
 Francisco's Open Source Voting System Project.
 
-Below is a listing of written reports and other official documents related to
-the project, in reverse chronological order. For additional background, some
-documents related to San Francisco's use of _non_-open source voting systems
-are also included.
+It contains a list of written reports and other official documents related to
+the open source voting system project. Each item listed also includes a short
+summary. For additional background, the list also includes documents related
+to San Francisco's use of _non_-open source voting systems.
+
+OSVTAC voted to create this page at its meeting on July 10, 2018, in response
+to a recommendation of the 2017-18 San Francisco Civil Grand Jury (CGJ)
+Report. The CGJ recommendation (Recommendation #3, or R3) is on page 22 of
+their report, which appears below under June 29, 2018.
 
 
 ## Ongoing
@@ -33,25 +38,52 @@ are also included.
   to the Commission at least once every four months.
 
 
-## 2018
+## One-time
+
+The items in this section are listed below in reverse chronological order,
+grouped by year.
+
+
+### 2018
 
 * **September 18.** ["Statement on Project Manager
   Hiring"](files/TAC/OSVTAC_re_Project_Manager_Hiring_Sept_18_2018.pdf)
   (PDF), San Francisco Open Source Voting System Technical Advisory Committee
   (OSVTAC), 1 page. [[source link](https://osvtac.github.io/communications)]
 
+  This is a brief statement by OSVTAC regarding the process of hiring a
+  Senior Technical Project Manager for the open source voting project. OSVTAC
+  created and adopted this statement at its September 13, 2018 meeting after
+  the job was posted in late August.
+
 * **September 18.** ["Statement on Project Ownership and Project
   Management"](files/TAC/OSVTAC_re_Project_Ownership_Sept_18_2018.pdf) (PDF),
   San Francisco Open Source Voting System Technical Advisory Committee
   (OSVTAC), 2 pages. [[source link](https://osvtac.github.io/communications)]
+
+  This is a brief statement by OSVTAC explaining in high-level terms what it
+  means to be a "project owner" as opposed to a project manager. OSVTAC
+  created and adopted this statement at its August 27, 2018 meeting. The
+  statement was in response to the Civil Grand Jury Report and an ensuing
+  discussion that took place at the Elections Commission's July 2018 meeting
+  about whether the Department of Elections should be named the owner of the
+  open source voting project.
 
 * **August 28.** ["Job Posting - 5504 Senior Technical Project
   Manager"](files/Job_Posting_5504_Project_Manager_20180828.pdf) (PDF),
   San Francisco Department of Technology, 5 pages.
   [[source link](https://jobapscloud.com/SF/sup/BulPreview.asp?R1=TEX&R2=5504&R3=088534)]
 
-  **Note: to apply for the job posting above, visit the City's jobs site
-  reachable from the above "source link."**
+  This is the job posting that the Department of Technology posted for the
+  project manager to lead the open source voting project. From the posting:
+  "This Senior Technical Project Manager will be responsible for leading the
+  investigation, design, construction and implementation of an Open Source
+  Voting System." The position was funded out of the $300K that COIT
+  allocated for the project in the spring of 2018. The position has a base
+  salary of $163,176 per year.
+
+  **Note: for official information about the posting, including how to apply
+  for it, visit the City's jobs site reachable from the above "source link."**
 
 * **June 29.** ["Open Source Voting in San
   Francisco"](files/2017-18_SFCGJ_Final_Report_Open_Source_Voting_in_San_Francisco.pdf)
@@ -84,7 +116,7 @@ are also included.
   [[source link](http://mission.sfgov.org/OCA_BID_ATTACHMENTS/FA52092.pdf)]
 
 
-## 2017
+### 2017
 
 * **May 22.** ["Request for Proposals for Preparing a Business Case for
   Developing an Accessible, Open Source Voting
@@ -111,7 +143,7 @@ are also included.
   $21,980,691.25."
 
 
-## 2015
+### 2015
 
 * **November 18.** ["Open Source Voting Systems
   Resolution"](files/elections-commission/osv-res-1/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
@@ -139,7 +171,7 @@ are also included.
   [[source link](https://sfelections.sfgov.org/request-information-rfi-new-voting-system)]
 
 
-## 2014
+### 2014
 
 * **December 19.** ["Supporting the Creation of Open Source Voting Systems -
   Studying New Models of Voting System
@@ -155,7 +187,7 @@ are also included.
   Systems Assessment Project."
 
 
-## 2013
+### 2013
 
 * **November 26.** ["Contract Amendment -- Voting System -- Not to Exceed
   $19,690,933.25"](files/BOS/BOS_Contract_Amend_File_130797_Approved.pdf)
@@ -170,7 +202,7 @@ are also included.
   agreement by $3,645,900 from $16,045,033.25 to $19,690,933.25."
 
 
-## 2011
+### 2011
 
 * **November 22.** ["Contract Extension -- Voting System -- Not to Exceed
   $2,264,800"](files/BOS/BOS_Contract_Ext_File_111153_Approved.pdf)
@@ -192,7 +224,7 @@ are also included.
   which was established by the Board of Supervisors' 2008 ordinance.
 
 
-## 2008
+### 2008
 
 * **December 1.** ["Voting Systems Task
   Force"](files/BOS/BOS_Ordinance_268-08_VSTF.pdf) (PDF), Ordinance No.
