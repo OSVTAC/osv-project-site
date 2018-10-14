@@ -69,6 +69,21 @@ grouped by year.
   about whether the Department of Elections should be named the owner of the
   open source voting project.
 
+* **August 31.** [Responses to the 2017-18 Civil Grand Jury
+  Report](files/CGJ/CGJ_2017-18_Report_Responses.pdf) (PDF), letter from the
+  Clerk of the Board with attachments from various respondents, 22 pages.
+
+  This is a letter from the Clerk of the Board to the San Francisco Board of
+  Supervisors containing all of the required responses to the 2017-18 San
+  Francisco Civil Grand Jury Report, "Open Source Voting in San Francisco."
+  The letter includes attached responses from the Office of the Controller,
+  the Office of the Mayor, the Department of Elections, the Department of
+  Technology, and the Elections Commission.
+
+  The letter also includes a cover letter on page 10 signed by Mayor London
+  Breed, Director of the Department of Elections John Arntz, and Executive
+  Director of the Department of Technology Linda Gerull.
+
 * **August 28.** ["Job Posting - 5504 Senior Technical Project
   Manager"](files/Job_Posting_5504_Project_Manager_20180828.pdf) (PDF),
   San Francisco Department of Technology, 5 pages.
